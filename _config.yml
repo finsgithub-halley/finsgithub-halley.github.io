@@ -18,7 +18,7 @@ avatar: http://i3.ytimg.com/vi/nFKeOqoHR-o/hqdefault.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:fin.halley@challoners.org
+  email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
